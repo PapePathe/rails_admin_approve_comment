@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      approve_event:
+        title: "Approve Event"
+        menu: "Approve Event for %{model_label} '%{object_label}'"
+        breadcrumb: "Approve Event"
+        link: "Approve Event"
+        bulk_link: "Approve Event selected %{model_label_plural}"
+        done: "Approve Evented"
