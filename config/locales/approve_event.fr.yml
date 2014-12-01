@@ -1,0 +1,10 @@
+fr:
+  admin:
+    actions:
+      approve_event:
+        title: "Publier cet évenement"
+        menu: "Publier l'évenement"
+        breadcrumb: "Approuver Evenement"
+        link: "Approuver Evenement"
+        bulk_link: "Approve Event selected %{model_label_plural}"
+        done: "Evenement publié sur agendakar.com"
